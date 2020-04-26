@@ -1,2 +1,2 @@
-# php-hangman
+# PHP Hangman
 A school project
