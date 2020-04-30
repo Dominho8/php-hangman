@@ -22,7 +22,7 @@
     require_once 'classes/GameClass.php';
   ?>
 
-  <h1>Hello World 🌍</h1>
+  <h1>Hello World 🌍 Hofer machts, merci</h1>
   
 </body>
 </html>
